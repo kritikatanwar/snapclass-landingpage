@@ -33,6 +33,7 @@ h4 {
     font-family: 'Climate Crisis', sans-serif;
     line-height: 1.1;
     word-wrap: break-word;
+    letter-spacing: 0.05em;   /* <-- Add this */
 }
 
 /* Navbar */
